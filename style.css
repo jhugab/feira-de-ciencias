@@ -13,7 +13,11 @@ body {
     display: flex;
     align-items: center;
     padding: 24px 0;
-    text-align: right;
+    text-align: center;
+}
+
+.titulo1{
+    text-align: center;
 }
 
 .cabecalho-imagem{
