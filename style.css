@@ -13,7 +13,7 @@ body {
     display: flex;
     align-items: center;
     padding: 24px 0;
-    text-align: center;
+    text-align: right;
 }
 
 .cabecalho-imagem{
